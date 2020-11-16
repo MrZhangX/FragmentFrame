@@ -1,0 +1,4 @@
+include ':fragmentation_app'
+include ':fragmentation_swipeback'
+include ':app', ':fragmentation'
+rootProject.name = "FragmentFrame"
